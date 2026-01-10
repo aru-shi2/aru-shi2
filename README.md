@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Arushi Mishra
+# 👋 Hey, I'm Arushi
 
 **Frontend Developer | Aspiring MERN stack Developer**
 
